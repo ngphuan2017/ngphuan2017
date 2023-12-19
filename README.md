@@ -36,3 +36,5 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ngphuan2017&icon=0&color=3)](https://visitcount.itsvg.in)
+
+Thanks for stopping by, and I look forward to connecting with you soon!
