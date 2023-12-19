@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi `![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)`, My name is An Nguyễn Phú</h1>
+<h1 align="center">Hi </h1>![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<h1></h1>, My name is An Nguyễn Phú</h1>
 <h3 align="center">A passionate Java Web App developer from Vietnamese.</h3>
 
 ![I am GitHub Readme Generator's creator](https://github.com/ngphuan2017/ngphuan2017/blob/main/images/banner.png)
