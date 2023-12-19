@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Nguyen Phu An</h1>
-<h3 align="center">A passionate website developer from Vietnamese.</h3>
+<h3 align="center">A passionate web app Java developer from Vietnamese.</h3>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/11012001an/) 
