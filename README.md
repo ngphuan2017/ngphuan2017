@@ -35,8 +35,10 @@ Here are some ideas to get you started:
 ![](https://github-trophies.vercel.app/?username=ngphuan2017&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
+
 <a href="https://www.github.com/ngphuan2017" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ngphuan2017?logo=github&style=for-the-badge&color=f97316&labelColor=22272e" /></a>
+
 [![](https://visitcount.itsvg.in/api?id=ngphuan2017&icon=0&color=3)](https://visitcount.itsvg.in)
 
 Thanks for stopping by, and I look forward to connecting with you soon!
